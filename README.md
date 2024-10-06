@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Devang Sharma and I'm a Software Developer, from India</h2>
+<h2 align="center">Hi 👋! My name is Devang Sharma and I'm a Software Developer, from India</h2>
 
 ###
 
