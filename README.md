@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Devang Sharma and I'm a Software Developer, from India</h2>
+<h1 align="left">Hi 👋! My name is Devang Sharma and I'm a Software Developer, from India</h2>
 
 ###
 
