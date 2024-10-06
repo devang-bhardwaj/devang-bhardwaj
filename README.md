@@ -1,8 +1,6 @@
-
-<br clear="both">
-
-<img align="center" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN1Y3ZzaXhhMnA0NjByOWVhd3IwZDBnMTdtcmRjZThoYm9iZTFxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif"  />
-
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN1Y3ZzaXhhMnA0NjByOWVhd3IwZDBnMTdtcmRjZThoYm9iZTFxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif"  />
+</div>
 
 ###
 
@@ -19,6 +17,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">Technologies & Tools I Work With</h3>
 
@@ -61,6 +61,8 @@
 <h3 align="left">Connect With Me</h3>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="www.linkedin.com/in/devangbhardwaj" target="_blank">
