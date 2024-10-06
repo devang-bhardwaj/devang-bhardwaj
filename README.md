@@ -1,3 +1,11 @@
+
+<br clear="both">
+
+<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN1Y3ZzaXhhMnA0NjByOWVhd3IwZDBnMTdtcmRjZThoYm9iZTFxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif"  />
+
+
+###
+
 <h2 align="left">Hi 👋! My name is Devang Sharma and I'm a Software Developer, from India</h2>
 
 ###
@@ -51,12 +59,6 @@
 ###
 
 <h3 align="left">Connect With Me</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN1Y3ZzaXhhMnA0NjByOWVhd3IwZDBnMTdtcmRjZThoYm9iZTFxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif"  />
 
 ###
 
